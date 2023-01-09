@@ -717,5 +717,7 @@ column-gap: 24px;
 }
 
 .icon-close {
-    
+stroke: #E7E9FC;
+stroke-width: 1px;
+stroke-opacity: 0.1;
 }
