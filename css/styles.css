@@ -711,7 +711,11 @@ column-gap: 24px;
     height: 24px;
 
     border: none;
+    border-radius: 50%;
 
-    background-color: #fff;
     cursor: pointer;
+}
+
+.icon-close {
+    
 }
